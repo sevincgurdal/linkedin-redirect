@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="refresh" content="0; url=linkedin://detail/activity:7283137974337245185">
+    <script>
+      window.location.href = "linkedin://detail/activity:7283137974337245185";
+      setTimeout(function() { 
+        window.location.href = "https://www.linkedin.com/feed/update/urn:li:activity:7283137974337245185/"; 
+      }, 500); // Fallback to web URL if the app isn't installed
+    </script>
+  </head>
+  <body>
+    Redirecting to LinkedIn...
+  </body>
+</html>
